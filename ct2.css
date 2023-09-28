@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color:#483D8B;
+    margin-top: 40px;
+}
+p{
+    padding-left: 60px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+ul{
+ margin-left: 100px;
+ color: indianred;
+ font-size: 20px;
+}
+h3{
+    padding-left: 20px;
+    color: #DC143C;
+}
+.ee{
+    color: black;
+}
+ol{
+    padding-left: 300px;
+}
+.imag1{
+    padding-left: 420px;
+}
+.imag1 h2{
+    padding-left:150px;
+}
+.imag2{
+    padding-left: 220px;
+}
+.imag2 h2{
+    padding-left:250px ;
+}
+.imag3{
+    padding-left: 450px;
+}
+.imag3 h2{
+    padding-left: 70px;
+}
+.imag4{
+    padding-left: 350px;
+}
+.imag4 h2{
+    padding-left: 100px;
+}
+.imag5{
+    padding-left: 450px;
+}
+.imag5 h2{
+    padding-left: 100px;
+}

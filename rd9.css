@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color:  #FF0000;
+    font-family: Arial;
+    margin-top: 20px;
+}
+.ad1{
+    text-align: center;
+    font-family: 'Segoe UI';
+    color: black;
+}
+h4{
+    margin-left: 100px;
+    color: black;
+    font-family: Arial;
+}
+.ad2{
+    margin-left: 150px;
+    font-family: 'Segoe UI';
+    color: black;
+}
+ol{
+    margin-left:200px ;
+    font-family: 'Segoe UI';
+    color: black;
+}
+.ad3{
+    text-align: center;
+    font-family: 'Segoe UI';
+    color: black;
+}
+
+
+.obj1{
+    height: 230px;
+    width: 100%;
+    text-align: center;
+    border-color: #FF0000;
+    background-color: rgb(184, 173, 173);
+    padding-top: 20px;
+}

@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color:  #FF0000;
+    font-family: Arial;
+    margin-top: 20px;
+}
+h4{
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol{
+    font-family: Arial;
+    color: black;
+    padding-left: 150px;
+}
+.a1{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+
+}
+.a2{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a3{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a4{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a5{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a6{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a7{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a8{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a9{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+.a10{
+    font-family: sans-serif;
+    color: black;
+    padding-left: 180px;
+}
+
+p{
+
+        font-family: sans-serif;
+        color: black;
+        padding-left: 180px;    
+}
+.c0{
+    text-align: center;
+    color:  #FF0000;
+    font-family: Arial;
+    margin-top: 20px;
+}
+.c00{
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}

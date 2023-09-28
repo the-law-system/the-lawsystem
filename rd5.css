@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color:  #FF0000;
+    font-family: Arial;
+    margin-top: 20px;
+}
+.p1{
+    text-align: center;
+    font-family: Arial;
+    color: black;
+}
+.p2{
+    text-align: center;
+    font-family: Arial;
+    color: black;
+}
+.p3{
+    font-family: 'Segoe UI';
+    color: black;
+    margin-left: 200px;
+}
+.obj1{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    border-color: #FF0000;
+    background-color: rgb(184, 173, 173);
+    padding-top: 20px;
+}

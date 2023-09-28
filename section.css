@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    height: 9000px;
+    width: 95%;
+    background-color: rgba(243, 239, 215, 0.932);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+.container{
+    
+    width: 85%;
+    margin-left: 100px;
+   background-color: #c8cdcd;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px 30px ping;
+    padding: 20px;
+    overflow-y: scroll;
+}
+/* .container::-webkit-scrollbar{
+    display: none; */
+
+/* } */
+.box{
+    
+    width: 95%;
+    background-color: #c9cccc;
+    padding-left: 50px;
+        
+    
+}
+.container form{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.container form input{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 8px 10px;
+}
+.container form i{
+    padding-left: 10px;
+}
+li{
+    padding-top: 20px;
+    display: flex;
+    cursor: pointer;
+    background-color: rgb(175, 178, 177);
+}
+.container:hover input, .container input:focus{
+    width: 1200px;
+    border-radius: 50px;
+}
+.container:hover input{
+    box-shadow: 0 0 5px 0 black;
+}
+.container input:focus{
+    box-shadow: 0 0 10px 0 black;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .order{
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 95%;
+    height: 1000px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background: pink;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    list-style: none;
+    overflow: auto;
+    text-align: center;
+    
+}
+.order li{
+    background-color: gray;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 10px;
+
+}
+#search-input{
+    position: absolute;
+    width: 400px;
+    
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+} */
